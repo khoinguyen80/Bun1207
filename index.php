@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Top | KhoiNguyenStore</title>
+        <title>KimNguyen | Luxury Toys</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- favicon -->
@@ -62,66 +62,66 @@
 											</ul>
 										</li>
 										<li>
-											<a href="shop.html">KhoiNguyenProducts</a>
+											<a href="shop.html">products</a>
 											<ul class="mega-menu">
-												<li><h5>Toy 1</h5>
+												<li><h5>popular watch brand</h5>
 													<ul>
 														<li>
-															<a> Toy 2</a>
+															<a> Nixon Watches</a>
 														</li>
 														<li>
-															<a> Toy 3</a>
+															<a> G-Shock Watches</a>
 														</li>
 														<li>
-															<a> Toy 4</a>
+															<a> Eone Time Watches</a>
 														</li>
 														<li>
-															<a> Toy 5</a>
+															<a> Citizen Watches</a>
 														</li>
 														<li>
-															<a> Toy 6</a>
+															<a> Daniel Wellington Watches</a>
 														</li>
 														<li>
-															<a> Toy 7</a>
+															<a> Thomas Earnsow Watches</a>
 														</li>
 													</ul>
 												</li>
-												<li><h5>Toy 8</h5>
+												<li><h5>Featured collections</h5>
 													<ul>
 														<li>
-															<a> Toy 9</a>
+															<a> one hand display</a>
 														</li>	
 														<li>
-															<a> Toy 10</a>
+															<a> Military</a>
 														</li>												
 														<li>
-															<a> Toy 11</a>
+															<a> oversized</a>
 														</li>
 																												
 													</ul>
 												</li>
-												<li><h5>Toy 12</h5>
+												<li><h5>popular bag brand</h5>
 													<ul>
 														<li>
-															<a> Toy 13</a>
+															<a> Cucci bags</a>
 														</li>
 														<li>
-															<a> Toy 14</a>
+															<a> Channel Bags</a>
 														</li>
 														<li>
-															<a> Toy 15</a>
+															<a> Saint Laurent bags</a>
 														</li>
 														<li>
-															<a> Toy 16</a>
+															<a> Burberry bags</a>
 														</li>
 														<li>
-															<a> Toy 17</a>
+															<a> phillip lim bags</a>
 														</li>
 														<li>
-															<a> Toy 18</a>
+															<a> dior bags</a>
 														</li>
 														<li>
-															<a> Toy 19</a>
+															<a> versace bags</a>
 														</li>
 													</ul>
 												</li>
@@ -212,27 +212,27 @@
 											</ul>
 										</li>
 										<li>
-											<a href="shop.html">KhoiNguyenProducts</a>
+											<a href="shop.html">products</a>
 											<ul class="mega-menu">
-												<li><h5>popular Toy brand</h5>
+												<li><h5>popular watch brand</h5>
 													<ul>
 														<li>
-															<a></i> Toy 20</a>
+															<a></i> Nixon Watches</a>
 														</li>
 														<li>
-															<a> Toy 21</a>
+															<a> G-Shock Watches</a>
 														</li>
 														<li>
-															<a> Toy 22</a>
+															<a> Eone Time Watches</a>
 														</li>
 														<li>
-															<a> Toy 23</a>
+															<a> Citizen Watches</a>
 														</li>
 														<li>
-															<a> Toy 24</a>
+															<a> Daniel Wellington Watches</a>
 														</li>
 														<li>
-															<a> Toy 25</a>
+															<a> Thomas Earnsow Watches</a>
 														</li>
 													</ul>
 												</li>
@@ -250,28 +250,28 @@
 																												
 													</ul>
 												</li>
-												<li><h5>popular Toyss brand</h5>
+												<li><h5>popular bag brand</h5>
 													<ul>
 														<li>
-															<a></i> Trains Toys</a>
+															<a></i> Cucci bags</a>
 														</li>
 														<li>
-															<a></i> Channel Toys</a>
+															<a></i> Channel Bags</a>
 														</li>
 														<li>
-															<a></i> Power Ranger Toys</a>
+															<a></i> Saint Laurent bags</a>
 														</li>
 														<li>
-															<a></i> PP Toys</a>
+															<a></i> Burberry bags</a>
 														</li>
 														<li>
-															<a></i> phillip lim Toys</a>
+															<a></i> phillip lim bags</a>
 														</li>
 														<li>
-															<a></i> dior Toys</a>
+															<a></i> dior bags</a>
 														</li>
 														<li>
-															<a></i> Superman Toys</a>
+															<a></i> versace bags</a>
 														</li>
 													</ul>
 												</li>
@@ -303,7 +303,7 @@
 												
 											</ul>
 										</li>
-										<li><a href="#">Kid's toys</a>
+										<li><a href="#">Men's watch</a>
 											<ul>
 												<li>
 													<a>Collins Hybrid</a>
@@ -316,7 +316,7 @@
 												</li>												
 											</ul>
 										</li>
-										<li><a href="#">Teenager toy</a>
+										<li><a href="#">Women watch</a>
 											<ul>
 												<li>
 													<a>Da Vinci Automatic</a>
@@ -373,7 +373,7 @@
 								<div class="row">
 									<div class="col-xs-12">
 										<div class="slide-text">
-											<h1 class="animated fadeInDown">The difference between train toys and power rangers toys is that train toys are just a bit classier.</h1>
+											<h1 class="animated fadeInDown">The difference between shoe ladies and bag ladies is that shoe ladies are just a bit classier.</h1>
 										</div>
 									</div>
 								</div>
@@ -404,11 +404,11 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-8 col-md-6 col-text-center">
 						<div class="section-title text-center">
-							<h3><span>Ny Mia</span> products</h3>
+							<h3><span>Khoi Nguyen</span> products</h3>
 							<div class="shape">
 								<img src="img/icon/t-shape.png" alt="Title Shape">
 							</div>
-							<p>Toys are crafted from the finest raw materials and assembled with scrupulous attention to detail. Every component is designed, developed and produced in-house to the most exacting standards.</p>
+							<p>Watches are crafted from the finest raw materials and assembled with scrupulous attention to detail. Every component is designed, developed and produced in-house to the most exacting standards.</p>
 						</div>
 					</div>
 				</div>
@@ -434,7 +434,7 @@
 										</ul>
 									</div>
 									<div class="product-title">
-										<a href="product-details.html"><h5>Train Toys series 4</h5></a>
+										<a href="product-details.html"><h5>Apple Watch series 4</h5></a>
 										<p>Price   <span>$399</span></p>
 									</div>
 								</div>
@@ -460,7 +460,7 @@
 										</ul>
 									</div>
 									<div class="product-title">
-										<a href="product-details.html"><h5>Bayoneta 123</h5></a>
+										<a href="product-details.html"><h5>Botega Veneta</h5></a>
 										<p>Price   <span>$1800.00</span></p>
 									</div>
 								</div>
@@ -486,7 +486,7 @@
 										</ul>
 									</div>
 									<div class="product-title">
-										<a href="product-details.html"><h5>Train Red</h5></a>
+										<a href="product-details.html"><h5>Huawei Watch</h5></a>
 										<p>Price   <span>$300</span></p>
 									</div>
 								</div>
@@ -512,7 +512,7 @@
 										</ul>
 									</div>
 									<div class="product-title">
-										<a href="product-details.html"><h5>Pink Train</h5></a>
+										<a href="product-details.html"><h5>Traveloka Bag</h5></a>
 										<p>Price   <span>$1500</span></p>
 									</div>
 								</div>
@@ -538,7 +538,7 @@
 										</ul>
 									</div>
 									<div class="product-title">
-										<a href="product-details.html"><h5>Power Pink Fit 1</h5></a>
+										<a href="product-details.html"><h5>Samsung Gear Fit 1</h5></a>
 										<p>Price   <span>$250</span></p>
 									</div>
 								</div>
@@ -566,7 +566,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-8 col-md-6 col-text-center">
 						<div class="section-title text-center">
-							<h3><span>Gold - diamond</span> products</h3>
+							<h3><span>Toy - Train</span> products</h3>
 							<div class="shape">
 								<img src="img/icon/t-shape.png" alt="Title Shape">
 							</div>
@@ -596,7 +596,7 @@
 										</ul>
 									</div>
 									<div class="product-title">
-										<a href="product-details.html"><h5>Train 01 SS4</h5></a>
+										<a href="product-details.html"><h5>Diamond SS4</h5></a>
 										<p>Price   <span>$1200</span></p>
 									</div>
 								</div>
@@ -721,7 +721,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-8 col-md-6 col-text-center">
 						<div class="section-title text-center">
-							<h3><span>Smartrobot</span> products</h3>
+							<h3><span>Smarttoy</span> products</h3>
 							<div class="shape">
 								<img src="img/icon/t-shape.png" alt="Title Shape">
 							</div>
@@ -751,7 +751,7 @@
 										</ul>
 									</div>
 									<div class="product-title">
-										<a href="product-details.html"><h5>Gao Black S3 GPS 42mm</h5></a>
+										<a href="product-details.html"><h5>Apple Watch S3 GPS 42mm</h5></a>
 										<p>Price   <span>$429</span></p>
 									</div>
 								</div>
@@ -777,7 +777,7 @@
 										</ul>
 									</div>
 									<div class="product-title">
-										<a href="product-details.html"><h5>Gao Robot </h5></a>
+										<a href="product-details.html"><h5>Huawei Watch with GPS</h5></a>
 										<p>Price   <span>$530</span></p>
 									</div>
 								</div>
@@ -803,7 +803,7 @@
 										</ul>
 									</div>
 									<div class="product-title">
-										<a href="product-details.html"><h5>Train fulter Gold Aluminum Case</h5></a>
+										<a href="product-details.html"><h5>Apple Watch Gold Aluminum Case</h5></a>
 										<p>Price   <span>$429</span></p>
 									</div>
 								</div>
@@ -829,7 +829,7 @@
 										</ul>
 									</div>
 									<div class="product-title">
-										<a href="product-details.html"><h5>Train Miband 4</h5></a>
+										<a href="product-details.html"><h5>Xiaomi Miband 4</h5></a>
 										<p>Price   <span>$250</span></p>
 									</div>
 								</div>
@@ -868,7 +868,7 @@
 		<!-- BAGS-->
       	<section class="float pic 3">
       		<div class="floatpic_3"> 
-      		    <h2> BAGS</h2>  
+      		    <h2> Trains</h2>  
      		</div>
   		</section>
         <!-- bags section -->
@@ -877,7 +877,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-8 col-md-6 col-text-center">
 						<div class="section-title text-center">
-							<h3><span>Branded</span> handbags</h3>
+							<h3><span>Branded</span> handtrains</h3>
 							<div class="shape">
 								<img src="img/icon/t-shape.png" alt="Title Shape">
 							</div>
@@ -895,7 +895,7 @@
 								<div class="riding-title clearfix">
 									<div class="product-title text-left floatleft">
 										<a href="product-details.html"><h5>Hermes</h5></a>
-										<h6>Hermes 25cm Rouge H Birkin Toy 03</h6>
+										<h6>Hermes 25cm Rouge H Birkin Bag</h6>
 										<p><span>$34,000.00</span></p>
 									</div>
 									<div class="actions-btn floatright">
@@ -937,7 +937,7 @@
 								<div class="riding-title clearfix">
 									<div class="product-title text-left floatleft">
 										<a href="product-details.html"><h5>Louis Vuitton</h5></a>
-										<h6>De Monogram Toy Charm P1</h6>
+										<h6>De Monogram Bag Charm</h6>
 										<p><span>$320.00</span></p>
 									</div>
 									<div class="actions-btn floatright">
@@ -958,7 +958,7 @@
 								<div class="riding-title clearfix">
 									<div class="product-title text-left floatleft">
 										<a href="product-details.html"><h5>Cucci</h5></a>
-										<h6>Teenager School Toy</h6>
+										<h6>Teenager School Bag</h6>
 										<p><span>$34.99</span></p>
 									</div>
 									<div class="actions-btn floatright">
@@ -982,7 +982,7 @@
 								<div class="riding-title clearfix">
 									<div class="product-title text-left floatleft">
 										<a href="product-details.html"><h5>Gucci</h5></a>
-										<h6>Dionysis Min Shoulder Toy</h6>
+										<h6>Dionysis Medium Shoulder Bag</h6>
 										<p><span>$2,800.00</span></p>
 									</div>
 									<div class="actions-btn floatright">
