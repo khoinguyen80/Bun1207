@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>KimNguyen | Luxury Toys</title>
+        <title>khoi nguyen | Toys and Trains</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- favicon -->
@@ -404,7 +404,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-8 col-md-6 col-text-center">
 						<div class="section-title text-center">
-							<h3><span>Khoi Nguyen</span> products</h3>
+							<h3><span>Duong Khoi</span> products</h3>
 							<div class="shape">
 								<img src="img/icon/t-shape.png" alt="Title Shape">
 							</div>
@@ -552,7 +552,7 @@
         <!-- watches-->
       	<section class="float pic 1">
       		<div class="floatpic_1"> 
-      		<h2> Toys</h2>       
+      		<h2> WATCHES</h2>       
      		</div>
   		</section>
         <!-- pictue float -->
@@ -566,7 +566,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-8 col-md-6 col-text-center">
 						<div class="section-title text-center">
-							<h3><span>Toy - Train</span> products</h3>
+							<h3><span>Gold - diamond</span> products</h3>
 							<div class="shape">
 								<img src="img/icon/t-shape.png" alt="Title Shape">
 							</div>
@@ -721,7 +721,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-8 col-md-6 col-text-center">
 						<div class="section-title text-center">
-							<h3><span>Smarttoy</span> products</h3>
+							<h3><span>Smartwatch</span> products</h3>
 							<div class="shape">
 								<img src="img/icon/t-shape.png" alt="Title Shape">
 							</div>
@@ -868,7 +868,7 @@
 		<!-- BAGS-->
       	<section class="float pic 3">
       		<div class="floatpic_3"> 
-      		    <h2> Trains</h2>  
+      		    <h2> BAGS</h2>  
      		</div>
   		</section>
         <!-- bags section -->
@@ -877,7 +877,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-8 col-md-6 col-text-center">
 						<div class="section-title text-center">
-							<h3><span>Branded</span> handtrains</h3>
+							<h3><span>Branded</span> handbags</h3>
 							<div class="shape">
 								<img src="img/icon/t-shape.png" alt="Title Shape">
 							</div>
